@@ -1,8 +1,8 @@
-# :abacus: Algoritmos e Estruturas de Dados
+# :abacus:Algorithms and data structures
 
-Este repositório disponibiliza diversos algoritmos e estruturas de dados clássicos em **Ciência da Computação**, bem como alguns problemas extras que são encontrados com frequência em desafios de programação.
+This repository provides several classic algorithms and data structures in **Computer Science**, as well as some extra problems that are frequently encountered in programming challenges.
 
-Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a contribuir com o projeto, os algoritmos são disponibilizados nas seguintes linguagens: **C**, **C++**, **Java**, **Python**, **Go**, **Ruby**, **Javascript**, **Swift**, **Rust**, **Scala** e **Kotlin**.
+With the aim of achieving greater coverage and encouraging more people to contribute to the project, the algorithms are available in the following languages: **C**, **C++**, **Java**, **Python**, **Go**, **Ruby**, **Javascript**, **Swift**, **Rust**, **Scala** and **Kotlin**.
 
 <html>
     <table align="center">
@@ -297,7 +297,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
             </td>
         </tr>
         <tr>
-            <td><a href="https://pt.wikipedia.org/wiki/Busca_linear">Busca Sequencial</a></td>
+            <td><a href="https://pt.wikipedia.org/wiki/Busca_linear">Sequential Search</a></td>
             <td> <!-- C -->
                 <a href="./src/c/BuscaSequencial.c">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -413,7 +413,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
             </td>
         </tr>
         <tr>
-            <td><a href="https://updatedcode.wordpress.com/2015/06/16/busca-sequencial-com-sentinela/">Busca utilizando Sentinela</a></td>
+            <td><a href="https://updatedcode.wordpress.com/2015/06/16/busca-sequencial-com-sentinela/">Search using Sentinel</a></td>
             <td> <!-- C -->
                 <a href="./src/c/BuscaSentinela.c">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -471,7 +471,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
             </td>
         </tr>
         <tr>
-            <td><a href="https://en.wikipedia.org/wiki/Interpolation_search">Busca por Interpolação</a></td>
+            <td><a href="https://en.wikipedia.org/wiki/Interpolation_search">Interpolation Search</a></td>
             <td> <!-- C -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -529,7 +529,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
             </td>
         </tr>
         <tr>
-            <td><a href="https://pt.wikipedia.org/wiki/Problema_do_caixeiro-viajante">Caixeiro Viajante</a></td>
+            <td><a href="https://pt.wikipedia.org/wiki/Problema_do_caixeiro-viajante">Traveling salesman</a></td>
             <td> <!-- C -->
                 <a href="./src/c/CaixeiroViajante.c">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -587,7 +587,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
             </td>
         </tr>
         <tr>
-            <td><a href="https://pt.wikipedia.org/wiki/Caminho_hamiltoniano">Ciclo Hamiltoniano</a></td>
+            <td><a href="https://pt.wikipedia.org/wiki/Caminho_hamiltoniano">Hamiltonian Cycle</a></td>
             <td> <!-- C -->
                 <a href="./src/c/CicloHamiltoniano.c">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -645,7 +645,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
             </td>
         </tr>
         <tr>
-            <td><a href="https://www.ime.usp.br/~pf/algoritmos_para_grafos/aulas/components.html">Componentes Conexos</a></td>
+            <td><a href="https://www.ime.usp.br/~pf/algoritmos_para_grafos/aulas/components.html">Related Components</a></td>
             <td> <!-- C -->
                 <a href="./src/c/ComponentesConexos.c">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -703,7 +703,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
             </td>
         </tr>
         <tr>
-            <td><a href="https://pt.wikipedia.org/wiki/Exponencia%C3%A7%C3%A3o">Exponenciação</a></td>
+            <td><a href="https://pt.wikipedia.org/wiki/Exponencia%C3%A7%C3%A3o">Exponentiation</a></td>
             <td> <!-- C -->
                 <a href="./src/c/Exponenciacao.c">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -761,7 +761,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
             </td>
         </tr>
         <tr>
-            <td><a href="https://pt.wikipedia.org/wiki/Exponencia%C3%A7%C3%A3o">Exponenciação Recursiva</a></td>
+            <td><a href="https://pt.wikipedia.org/wiki/Exponencia%C3%A7%C3%A3o">Recursive Exponentiation</a></td>
             <td> <!-- C -->
                 <a href="./src/c/ExponenciacaoRecursiva.c">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -819,7 +819,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
             </td>
         </tr>
         <tr>
-            <td><a href="https://pt.wikipedia.org/wiki/Fatorial">Fatorial</a></td>
+            <td><a href="https://pt.wikipedia.org/wiki/Fatorial">Factorial</a></td>
             <td> <!-- C -->
                 <a href="./src/c/Fatorial.c">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
