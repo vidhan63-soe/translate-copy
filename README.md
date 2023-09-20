@@ -65,7 +65,7 @@ With the aim of achieving greater coverage and encouraging more people to contri
             </td>
         </tr>
         <tr>
-            <td><a href="https://pt.wikipedia.org/wiki/Algoritmo_de_Dijkstra">Algoritmo Dijkstra</a></td>
+            <td><a href="https://pt.wikipedia.org/wiki/Algoritmo_de_Dijkstra">Dijkstra Algorithm</a></td>
             <td> <!-- C -->
                 <a href="./src/c/AlgoritmoDijkstra.c">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -123,7 +123,7 @@ With the aim of achieving greater coverage and encouraging more people to contri
             </td>
         </tr>
         <tr>
-            <td><a href="https://pt.wikipedia.org/wiki/Algoritmo_de_Floyd-Warshall">Algoritmo Floyd Warshall</a></td>
+            <td><a href="https://pt.wikipedia.org/wiki/Algoritmo_de_Floyd-Warshall">Floyd Warshall Algorithm</a></td>
             <td> <!-- C -->
                 <a href="./src/c/AlgoritmoFloydWarshall.c">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -181,7 +181,7 @@ With the aim of achieving greater coverage and encouraging more people to contri
             </td>
         </tr>
         <tr>
-            <td><a href="https://pt.wikipedia.org/wiki/Pesquisa_bin%C3%A1ria">Busca Binária</a></td>
+            <td><a href="https://pt.wikipedia.org/wiki/Pesquisa_bin%C3%A1ria">Binary Search</a></td>
             <td> <!-- C -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -239,7 +239,7 @@ With the aim of achieving greater coverage and encouraging more people to contri
             </td>
         </tr>
         <tr>
-            <td><a href="https://www.inf.ufsc.br/grafos/represen/busca.html">Busca em Grafos</a></td>
+            <td><a href="https://www.inf.ufsc.br/grafos/represen/busca.html">Graph Search</a></td>
             <td> <!-- C -->
                 <a href="./src/c/BuscaEmGrafo.c">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -355,7 +355,7 @@ With the aim of achieving greater coverage and encouraging more people to contri
             </td>
         </tr>
         <tr>
-            <td><a href="https://pt.wikipedia.org/wiki/Busca_linear">Busca Sequencial Recursiva</a></td>
+            <td><a href="https://pt.wikipedia.org/wiki/Busca_linear">Recursive Sequential Search</a></td>
             <td> <!-- C -->
                 <a href="./src/c/BuscaSequencialRecursiva.c">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
