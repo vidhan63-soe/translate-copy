@@ -3671,6 +3671,6 @@ With the aim of achieving greater coverage and encouraging more people to contri
 
 ## :technologist: Contribuindo
 
-Fique à vontade para contribuir com o projeto, toda contribuição é bem vinda. :grin:
+Feel free to contribute to the project, all contributions are welcome. :grin:
 
-Se você tem dúvidas de como contribuir, dê uma olhada no arquivo [CONTRIBUTING](CONTRIBUTING.md).
+If you have questions about how to contribute, take a look at the file [CONTRIBUTING](CONTRIBUTING.md).
