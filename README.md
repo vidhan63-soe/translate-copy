@@ -877,7 +877,7 @@ With the aim of achieving greater coverage and encouraging more people to contri
             </td>
         </tr>
         <tr>
-            <td><a href="https://pt.wikipedia.org/wiki/Fatorial">Fatorial Recursiva</a></td>
+            <td><a href="https://pt.wikipedia.org/wiki/Fatorial">Recursive Factorial</a></td>
             <td> <!-- C -->
                 <a href="./src/c/FatorialRecursiva.c">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -993,7 +993,7 @@ With the aim of achieving greater coverage and encouraging more people to contri
             </td>
         </tr>
         <tr>
-            <td><a href="https://www.ime.usp.br/~pf/algoritmos/aulas/recu.html">Máximo Recursivo</a></td>
+            <td><a href="https://www.ime.usp.br/~pf/algoritmos/aulas/recu.html">Maximum Recursive</a></td>
             <td> <!-- C -->
                 <a href="./src/c/MaxRecursivo.c">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -1051,7 +1051,7 @@ With the aim of achieving greater coverage and encouraging more people to contri
             </td>
         </tr>
         <tr>
-            <td><a href="https://www.ime.usp.br/~pf/algoritmos/aulas/recu.html">Mín. e Máx. Iterativo</a></td>
+            <td><a href="https://www.ime.usp.br/~pf/algoritmos/aulas/recu.html">Iterative Min and Max</a></td>
             <td> <!-- C -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -1109,7 +1109,7 @@ With the aim of achieving greater coverage and encouraging more people to contri
             </td>
         </tr>
         <tr>
-            <td><a href="https://www.ime.usp.br/~pf/algoritmos/aulas/recu.html">Mín. e Máx. Recursivo</a></td>
+            <td><a href="https://www.ime.usp.br/~pf/algoritmos/aulas/recu.html">Recursive Min and Max</a></td>
             <td> <!-- C -->
                 <a href="./src/c/MaxMinRecursivo.c">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -1167,7 +1167,7 @@ With the aim of achieving greater coverage and encouraging more people to contri
             </td>
         </tr>
         <tr>
-            <td>Mín. e Máx. D&C</td>
+            <td>Min and Max D&C</td>
             <td> <!-- C -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -1225,7 +1225,7 @@ With the aim of achieving greater coverage and encouraging more people to contri
             </td>
         </tr>
         <tr>
-            <td><a href="https://pt.wikipedia.org/wiki/Problema_do_cavalo">Passeio do Cavalo</a></td>
+            <td><a href="https://pt.wikipedia.org/wiki/Problema_do_cavalo">Horse Ride</a></td>
             <td> <!-- C -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -1283,7 +1283,7 @@ With the aim of achieving greater coverage and encouraging more people to contri
             </td>
         </tr>
         <tr>
-            <td><a href="https://pt.wikipedia.org/wiki/Torre_de_Han%C3%B3i">Torre de Hanói</a></td>
+            <td><a href="https://pt.wikipedia.org/wiki/Torre_de_Han%C3%B3i">Tower of Hanoi</a></td>
             <td> <!-- C -->
                 <a href="./src/c/TorreDeHanoi.c">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -1399,7 +1399,7 @@ With the aim of achieving greater coverage and encouraging more people to contri
             </td>
         </tr>
         <tr>
-            <td><a href="https://www.ime.usp.br/~pf/estruturas-de-dados/aulas/huffman.html">Algoritmo de Huffman</a></td>
+            <td><a href="https://www.ime.usp.br/~pf/estruturas-de-dados/aulas/huffman.html">Huffman algorithm</a></td>
             <td> <!-- C -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -1457,7 +1457,7 @@ With the aim of achieving greater coverage and encouraging more people to contri
             </td>
         </tr>
         <tr>
-            <td><a href="https://pt.wikipedia.org/wiki/LZ77">Algoritmo LZ77</a></td>
+            <td><a href="https://pt.wikipedia.org/wiki/LZ77">LZ77 Algorithm</a></td>
             <td> <!-- C -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -1517,7 +1517,7 @@ With the aim of achieving greater coverage and encouraging more people to contri
     </table>
     <table align="center">
         <tr>
-            <td align="center">Estruturas de Dados</td>
+            <td align="center">Data Structures</td>
             <td align="center">
                 <a href="https://www.sololearn.com/compiler-playground/c">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
